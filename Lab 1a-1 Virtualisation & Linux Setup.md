@@ -6,7 +6,7 @@ First is I installed Oracle VirtualBox, it was an easy install but the installat
 can take a lot of time. Using higher MB memory and CPU Cores can help speed up the installation process. 
 In the image below, you can see the RAM I use which is 4096 MB of memory and used 2 processors, 
 lastly for the storage, I used the ubuntu-26.04.1-desktop-amd64.iso.
-<img width="860" height="540" alt="image" src="https://github.com/user-attachments/assets/173f8982-b40d-4f49-9cc9-d6656410bd1d" />
+<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/173f8982-b40d-4f49-9cc9-d6656410bd1d" />
 <p>&nbsp;</p>
 This is what the Ubuntu desktop looks like. The resolution of the desktop inside the VirtualBox may seem small but can be adjusted on the settings.
 <p>
