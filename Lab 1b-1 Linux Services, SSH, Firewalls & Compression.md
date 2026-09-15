@@ -69,6 +69,45 @@ Decompressing and extracting:
 
 Confirms that the extraction worked:
 <p><img width="450" alt="image" src="https://github.com/user-attachments/assets/5925d366-ca96-4062-8887-4a98e5f30961" /></p>
+<p>&nbsp;</p>
 
+# Challenge Activities
+
+## Challenge 1: Remote File Creation via SSH
+First I replace my main VM username into my partner VM username and IP.
+<p><img width="450" alt="image" src="https://github.com/user-attachments/assets/312020c3-aa0e-4a4e-8fda-44f5b2c57e87" /></p>
+Next I created a file called Hi_Partner using the "touch" command.
+<p><img width="450" alt="image" src="https://github.com/user-attachments/assets/82afe48e-0e21-4fe4-8a1f-df082fd66ec7" /></p>
+
+## Challenge 2: Remote GUI Apps
+For this challenge I tried opening gedit over SSH and it did not work because SSH does not provide a graphical display.
+But If I open it just through my terminal, it will work and it look like this:
+<img width="450" alt="Screenshot 2026-09-15 214249" src="https://github.com/user-attachments/assets/fcd63bda-b0a3-451f-b84c-b822d805aef2" />
+
+
+## Challenge 3: SCP File Transfer
+For this Challenge I created I file in my main VM called Hi_Partner and send it to my partner VM.
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/e571253e-415a-405b-b3af-903fa276b6d3" />
+
+This is what it looks like when I open the file inside the partner VM.
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/aa838263-3cc0-4019-ac23-c74d8145e135" />
+
+
+## Challenge 4: Compress & Share Books
+Last challenge, I created a books folder and downloaded books using "wget", created a tar archive, and compress it just like the first one I did.
+<p><img width="450" alt="Screenshot 2026-09-15 222400" src="https://github.com/user-attachments/assets/5620f39b-9e18-4a5b-9a7a-200879c632d9" /></p>
+
+And lastly, I transfer it to my partner VM.
+<p><img width="450" alt="Screenshot 2026-09-15 222726" src="https://github.com/user-attachments/assets/84390828-ecc2-4bcb-bd47-5c91cc7c3603" /></p>
+
+# Reflection
+
+## What’s the role of a firewall in managing services? 
+
+## How did SSH access deepen your understanding of Linux as a server? 
+
+## Why is file compression important in server contexts? 
+
+## How does user privilege management help secure systems?
 
 
