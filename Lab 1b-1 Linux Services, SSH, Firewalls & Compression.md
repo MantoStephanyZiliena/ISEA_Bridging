@@ -37,9 +37,38 @@ I also tried removing the installed Apache, and basically when I used the nmap a
 
 
 ## UFW
-<img width="500" alt="Screenshot 2026-09-13 101134" src="https://github.com/user-attachments/assets/d69c4112-39c9-44e1-85e3-b3010483217b" />
+Here I enable the UFW using the command "sudo ufw enable" this will display the ports 80 and 22 in both VM.
+
+Main VM:
+<p><img width="450" alt="Screenshot 2026-09-15 183601" src="https://github.com/user-attachments/assets/f35df630-0567-4076-b404-ba54e246a1e0" /></p>
+Partner VM:
+<p></p><img width="450" alt="Screenshot 2026-09-15 190226" src="https://github.com/user-attachments/assets/7cab6718-b306-4d03-8357-0c0228ce2e48" /></p>
 <p>&nbsp;</p>
 
 ## SSH
-<img width="500" alt="Screenshot 2026-09-13 101958" src="https://github.com/user-attachments/assets/42d6cde0-e124-4572-a461-f5eac5de5922" />
+I attempt the command "ssh [partner_IP]" and troubleshoot using the UFW rules.
+Here is the result:
+<img width="450" alt="Screenshot 2026-09-15 185506" src="https://github.com/user-attachments/assets/91b3daf5-45c0-45d0-be7f-488d6a053706" />
+
+And then I created a new user in the partner vm and then tested logging in via SSH.
+<img width="450" alt="Screenshot 2026-09-15 191402" src="https://github.com/user-attachments/assets/7df2063d-411c-4816-b185-e5559d0e71fe" />
 <p>&nbsp;</p>
+
+## Project Gutenberg
+I downloaded the file called Gutenberg using the command called "wget"
+<img width="450" alt="Screenshot 2026-09-13 103352" src="https://github.com/user-attachments/assets/70c41a01-c89c-4908-aaf4-dafd600eede2" />
+<p>&nbsp;</p>
+
+Next is I compress it with "bzip2 books.tar, decompress it with "bunzip2", and extract with "tar -xvf".
+
+Compressing:
+<p><img width="450" alt="Screenshot 2026-09-15 203824" src="https://github.com/user-attachments/assets/c7197c03-92db-4ac6-8cb9-fa02b4255c76" /></p>
+
+Decompressing and extracting:
+<p><img width="450" alt="image" src="https://github.com/user-attachments/assets/17a4b3a4-9605-4fc4-b437-5168a88fb232" /></p>
+
+Confirms that the extraction worked:
+<p><img width="450" alt="image" src="https://github.com/user-attachments/assets/5925d366-ca96-4062-8887-4a98e5f30961" /></p>
+
+
+
