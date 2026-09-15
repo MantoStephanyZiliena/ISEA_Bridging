@@ -10,7 +10,7 @@ Next I created a group where Alice and Bob are the members.
 ## Created a Directory
 
 ## Created Ten Files and Permissions Assigned
-Here the ten files are created inside "/home/shared. It also shows that Alice gets the Permission to be the group owner.
+Here are the ten files are created inside "/home/shared. It also shows that Alice gets the Permission to be the group owner.
 <p><img width="500" alt="Screenshot 2026-09-13 120333" src="https://github.com/user-attachments/assets/37493941-1ec9-4cc2-8e86-d33195670ca7" /></p>
 
 ## Access verified per User
