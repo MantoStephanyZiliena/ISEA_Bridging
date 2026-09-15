@@ -10,7 +10,7 @@ Next I created a group where Alice and Bob are the members.
 ## Created a Directory
 
 ## Created Ten Files and Permissions Assigned
-Here are the ten files are created inside "/home/shared. It also shows that Alice gets the Permission to be the group owner.
+Here are the ten files are created inside "/home/shared". It also shows that Alice gets the Permission to be the group owner.
 <p><img width="500" alt="Screenshot 2026-09-13 120333" src="https://github.com/user-attachments/assets/37493941-1ec9-4cc2-8e86-d33195670ca7" /></p>
 
 ## Access verified per User
@@ -26,10 +26,9 @@ Mallory:
 ## -R flag with chmod/chown/chrgp
 
 ## Sudo Access
-Mallory is granted a sudo access using the command "sudo usermod -aG sudo" and testing Mallory's access using "sudo ls /root"
+Mallory is granted a sudo access using the command "sudo usermod -aG sudo" and I also tested Mallory's access using "sudo ls /root"
 <p><img width="500" alt="Screenshot 2026-09-13 122954" src="https://github.com/user-attachments/assets/3966af7d-12a5-4f43-8102-69027a2e004d" /></p>
- The use of sudo is allowing users or granting users accessibility to something not anyone can have access or control to. 
- That is why it is only given to the users that are trusted with almost full control into the system.
+The use of sudo is allowing users or granting users accessibility to something not anyone can have access or control to.  That is why it is only given to the users that are trusted with almost full control into the system.
 
 ## Clean-up Task
 Finally all the files were removed or cleaned-up, I used "sudo rm -r /home/shared" command for this task.
