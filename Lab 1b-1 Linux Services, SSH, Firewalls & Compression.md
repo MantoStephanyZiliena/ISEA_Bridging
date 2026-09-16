@@ -103,11 +103,15 @@ And lastly, I transfer it to my partner VM.
 # Reflection
 
 ## What’s the role of a firewall in managing services? 
+Firewall can control which networks connection is allowed to reach or leave a computer. When managing services, the firewall basically block unwanted access, allowing only the required services and reduce security risk. 
 
 ## How did SSH access deepen your understanding of Linux as a server? 
+For me, SSH access deepen my understanding of Linux as a server because I can manage an operating system like Linux by just using a command line and it help me understand how I can manage, configure, and monitor a server.
 
 ## Why is file compression important in server contexts? 
+Compressing files is important because it can help lessen the amount of storage needed to store and transfer files, this makes it more efficient to manage a server as well.
 
 ## How does user privilege management help secure systems?
+User management can help secure a system by controlling user access and permissions, which can help prevent unuathorized users from having an access to the computers data or files.
 
 
