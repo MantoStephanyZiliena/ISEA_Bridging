@@ -28,11 +28,21 @@ I customized the index.html a bit. I just change the "it work!" into my name and
 <p><img width="600" alt="image" src="https://github.com/user-attachments/assets/437adbe9-c3db-44b4-978f-ebbaf8acb324" /></p>
 
 ## External File DL with wget
+I successfully downloaded in my EC2 instance the external pdf " http://...EECS-2009-28.pdf " given in our lab activity. I used the command called "wget".
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/e736dd12-1fe1-4849-a00b-6e8863799dcd" />
 
 ## PDF Accessible
+First I copy the pdf using the command "sudo cp" and then I checked if it worked using "ls -l". I went to the browser and typed my public IP address with the pdf file name to check if I can open it and IT WORKED!
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/0df59e99-9b4a-468a-8ba6-d719cd17290c" />
 
 ## Link inserted in HTML Page
+I open the index.html in the terminal and added an anchor tag at the body section of the html, I placed the link at the top right corner of the page and when I click the link, it went straight to the pdf file which is just like the screenshot above this.
+<p><img width="700" alt="image" src="https://github.com/user-attachments/assets/7bf2767b-8097-4cc9-a98b-8ff5f8fd059d" /></p>
+
 
 ## Budget Monitoring
+I successfully created the budget to help me be alerted about the spending over AWS.
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/b5d99fa0-e370-4b36-9bdc-609c6c057212" />
+
 
 ## Instance Terminated
