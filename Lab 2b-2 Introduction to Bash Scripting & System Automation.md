@@ -10,10 +10,13 @@ string called "echo" and wrote something using the "$(whoami)" which is inside t
 <p><img width="600" alt="image" src="https://github.com/user-attachments/assets/483f4686-b933-45ab-8014-1e3ccfe89596" /></p>
 
 ## Part 3: Implementing Loops and Conditionals
+This is the bash scripting code I created inside the file called system_info.sh. First I tried the Loop statement using the for and do loop, The system will loop 5 times because it is asked to count 5 times. Next is the Conditional statement using the if/elif/else statement, the conditional statement will asked the user to enter a number.
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/497d6075-2181-4f99-9d0a-66ad3dac5d4c" />
+
+Loop Statement (for, do)
 <p><img width="600" alt="image" src="https://github.com/user-attachments/assets/0a3a7f5f-7dae-4563-b663-451befa0a9df" /></p>
 
-if/elif/else
+Conditional Statement (if/elif/else)
 <p><img width="600" alt="Screenshot 2026-09-17 231233" src="https://github.com/user-attachments/assets/c4e41993-59d3-4e59-b22e-5ea40e384842" /></p>
 <img width="600" alt="Screenshot 2026-09-17 231500" src="https://github.com/user-attachments/assets/f345075d-76dd-4ec2-8726-3561fa78be67" />
 
