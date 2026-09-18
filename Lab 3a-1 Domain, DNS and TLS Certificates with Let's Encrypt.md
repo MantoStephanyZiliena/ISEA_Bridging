@@ -13,3 +13,6 @@ so it can be accessed using the domain name instead of the IP address.
 
 Here is what it looks like of my apache web page opened using my own domain name: http://stephanyweb.duckdns.org
 <img width="700" alt="Screenshot 2026-09-18 232930" src="https://github.com/user-attachments/assets/9af1cfcc-9c60-448c-9d89-f07961b267ef" />
+
+
+I WILL CONTINUE IT TOM:)
