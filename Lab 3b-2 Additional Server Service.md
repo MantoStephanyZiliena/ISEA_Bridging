@@ -14,6 +14,6 @@
 
 ## Step 5 – Test logging locally 
 <img width="700" alt="Screenshot 2026-09-19 215355" src="https://github.com/user-attachments/assets/ee8e96d4-85d0-4b45-a52a-c2b68ee7cc9a" />
-
+<p>&nbsp;</p>
 <img width="700" alt="Screenshot 2026-09-19 215603" src="https://github.com/user-attachments/assets/9ec1b890-dd94-4164-afd2-841df211b920" />
 
