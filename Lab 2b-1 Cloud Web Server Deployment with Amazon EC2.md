@@ -69,15 +69,26 @@ I successfully created my custom html page in my EC2 web server and here is the 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/28b8a77d-e8b7-4757-9510-85b4a32ea969" />
 
 # Reflection
-- What were the benefits of cloud deployment over local virtualisation? 
+## What were the benefits of cloud deployment over local virtualisation?
+  
+For me, cloud deployment like AWS is easier to use. It was easy log in, create an instance, and connect to EC2 terminal to do some commands. I can also manage my web server anywhere which is convenient.
 
-- How does Apache serve files, and how did you verify this? 
+## How does Apache serve files, and how did you verify this?
+  
+ Apache is a web server that receives http or https requests and that request is send to web browser. In my case, I installed apache2 on my EC2 terminal and open it to my web browser to verify it if it worked.
 
-- What did you learn about file ownership and permissions? 
+ ## What did you learn about file ownership and permissions?
+  
+I learned that Linux files has owners, groups, and other which can get permission to read, write, and execute a file.
+Using a command "chmod 777" which means change mode to give a full read, write, and execute to anyone which is the owner, a group, and the others.
 
-- What risks are associated with leaving instances running? 
+ ## What risks are associated with leaving instances running?
+  
+Leaving an instance running even if we are done doing our work, can leave us some unexpected charges, that is why it is important to stop our instance after using it or after running it because it can also cause a risk into the open server we  leave running.
 
-- How would you explain the difference between DNS and /etc/hosts to a client? 
+## How would you explain the difference between DNS and /etc/hosts to a client?
+  
+I would explain that DNS basically turns domain name into IP addresses using some naming system, while the /etc/host also does something similar but it use local file on computer to map names into IP addresses, For me, using a DNS is better for websites so that many people can access it much easier.  
 
  
 
