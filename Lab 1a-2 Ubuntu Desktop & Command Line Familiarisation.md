@@ -11,7 +11,7 @@ First I went to Firefox and search Google just to check if the internet works in
 
 Next I went to the App Center and decided to Install the LibreOffice Writer 
 since it is not pre-installed on my Ubuntu, but in may differ, some Ubuntu have it already installed by default.
-<img width="600" alt="Screenshot 2026-09-12 212636" src="https://github.com/user-attachments/assets/d303e9f6-801d-4af0-82ce-29e55a675fdd" />
+<p><img width="600" alt="Screenshot 2026-09-12 212636" src="https://github.com/user-attachments/assets/d303e9f6-801d-4af0-82ce-29e55a675fdd" /></p>
 <p>&nbsp;</p>
 
 I opened the LibreOffice and tried typing on it just to check if it actually works. 
@@ -25,14 +25,14 @@ I also explored the file manager and navigate through the directory structure.
 
 Lastly, I went to the terminal side by side with the file explorer just to see the changes real time
 after I created a text file in the terminal using the touch command.
-<img width="600" alt="Screenshot 2026-09-12 213907" src="https://github.com/user-attachments/assets/85abd615-5406-4e5d-8460-56127606859c" />
+<p><img width="600" alt="Screenshot 2026-09-12 213907" src="https://github.com/user-attachments/assets/85abd615-5406-4e5d-8460-56127606859c" /></p>
 <p>&nbsp;</p>
 
 ## CLI Basics and Operations
 For this section, I will be going through some basic commands and operations using the Ubuntu terminal.
 
 First is I used the command "ps -e", this command will show all the running processes, and then used "top" to see all those processes real time showing the over all CPU usage. After that, I press 1 to show each CPU core used seperately and the screenshot below shows the real time processes and the two CPU used.
-<img width="500" alt="Screenshot 2026-09-14 205725" src="https://github.com/user-attachments/assets/fc42b03c-c693-437b-b482-5897c6eeb3d3" />
+<p><img width="500" alt="Screenshot 2026-09-14 205725" src="https://github.com/user-attachments/assets/fc42b03c-c693-437b-b482-5897c6eeb3d3" /></p>
 <p>&nbsp;</p>
 
 Next commands are "ls" and "ls -la", these two commands are used to show files in the file manager. The difference is that using ls would only show all the visible files and folders in the directory while the ls -la will show all files even the hidden files like .bashrc.
@@ -40,11 +40,11 @@ Next commands are "ls" and "ls -la", these two commands are used to show files i
 <p>&nbsp;</p>
 
 I created a textfile using the touch command, after creating it I installed a command called "gedit" so I can open the textfile, and copy a few paragraphs from google and paste it inside the textfile. After that, I tried "nano" to open the textfile in the terminal itself, and below is the screenshot for it.
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/8e8cf7ed-403c-4acd-b84a-75b7695fae74" />
+<p><img width="500" alt="image" src="https://github.com/user-attachments/assets/8e8cf7ed-403c-4acd-b84a-75b7695fae74" /></p>
 <p>&nbsp;</p>
 
 Next are the commands called "cat" and "less". The cat command will show the whole textfile paragraph in the terminal while less will move to a scrollable file in terminal and need to exit once done.
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/5763b630-5c89-4191-95f9-fcfc521a3596" />
+<p><img width="500" alt="image" src="https://github.com/user-attachments/assets/5763b630-5c89-4191-95f9-fcfc521a3596" /></p>
 <p>&nbsp;</p>
 
 For the next one, we have "cp" and "mv", they are use for copying and renaming a file. So what I did is I used cp to copy my textfile and named it textfile2, after that, I had the textfile2 be renamed as textfile3 using the command mv.
@@ -91,7 +91,7 @@ Lastly, I checked my IP address using a website called "whatismyipaddress".
 This section shows the hardware resources like processor, memory, and storage.
 
 Here we can see all the details of the Ubuntu, also using the command "less /proc/cpuinfo" I was able to see all info regarding the CPU like how 2 processors are used to run the Ubuntu.
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/e0bb3066-8ae4-4e16-8fbc-ec488a8cd955" />
+<p><img width="500" alt="image" src="https://github.com/user-attachments/assets/e0bb3066-8ae4-4e16-8fbc-ec488a8cd955" /></p>
 <p>&nbsp;</p>
 
 For the last part, I tried turning the output into a file and also using commands like cat and less again to display the output in two different ways.
