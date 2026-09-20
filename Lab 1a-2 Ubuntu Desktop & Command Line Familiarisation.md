@@ -106,4 +106,10 @@ Here I installed vlc using the terminal.
 <p>&nbsp;</p>
 
 ## Reflection
-Lab 1a-2 had taught me a lot, from CLI commands, super user and permission, to Network Configuration. It took me a long time to finish the lab but it was worth it because I learned a lot from it. I feel like I already have the grip of using the Ubuntu terminal from all the commands I had to try.
+Lab 1a-2 had taught me a lot, from CLI commands, super user and permission, to Network Configuration. It took me a long time to finish the lab but it was worth it because I learned a lot from it. I feel like I already have the grip of using the Ubuntu terminal from all the commands I had to try. Before doing this lab, I only knew how to open a terminal in ubuntu and that's it, so learning different kinds of commands for this lab felt a lot but understanding the use of all commands felt an accomplishment. So overall, through this lab, it made me more confident to navigate Linux for future labs activity and learn more from each one of it.
+
+
+
+
+
+
