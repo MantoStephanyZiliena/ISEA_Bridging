@@ -26,17 +26,25 @@ Conditional Statement (if/elif/else)
 <img width="600" alt="Screenshot 2026-09-17 233805" src="https://github.com/user-attachments/assets/57661bfa-8d9f-46fd-aeba-020e85b67fe7" />
 
 # Reflection
-- What command did you use to create a new directory? 
+## What command did you use to create a new directory?
+To create a new directory or folder, I used the command called "mkdir" which means make a directory. So just enter the command and add the name you want for the directory and then just enter its already gonna be inside the file management.
 
-- How can you view the contents of a file without opening it in a GUI? 
+## How can you view the contents of a file without opening it in a GUI? 
+I can open a file using a command called "cat" which helps view a file just inside the terminal itself. So just like the mkdir, you write the command followed by the file name then press enter and the text inside the file will appear in the terminal.
 
-- What is the purpose of `chmod 777`? 
+##  What is the purpose of `chmod 777`? 
+The purpose of the command "chmod 777" which means change mode is basically having the user, a group, and others to have full access of read, write, and execute to a specific file.
 
-- What does `#!/bin/bash` do at the start of a script? 
+## What does `#!/bin/bash` do at the start of a script? 
+The command "#!/bin/bash" basically tells the system what kind of script should run in the terminal, and in that case, it should be the Bash. This command is also placed at the top of the script. 
 
-- What happens when invalid input is entered into a script? 
+## What happens when invalid input is entered into a script? 
+When an invalid input is entered into a script, the may not work or show a error message telling that it is not valid input.
+When this happen, we should always just try giving a valid input to make the script work.
 
-- What output does `free -h` show? 
+## What output does `free -h` show? 
+The command "free -h" will give an output of the information about the system memory, like the available, used, and total of the RAM being used.
 
-- How would you monitor network bandwidth in a Bash script? 
+## How would you monitor network bandwidth in a Bash script? 
+To monitor the network bandwidth inside a bash script, I will use a commands like "ifstat" and "vnstat" which will help me monitor the network traffic and help me check how much data is being used.
 
