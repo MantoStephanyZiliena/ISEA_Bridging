@@ -5,7 +5,7 @@ I created the three users named Alice, Bob, and Mallory according to the lab act
 
 ## Created a Group
 Next I created a group where Alice and Bob are the members.
-<img width="500" alt="Screenshot 2026-09-13 111446" src="https://github.com/user-attachments/assets/ad316b91-23f4-45ac-836a-b59f44cc7604" />
+<p><img width="500" alt="Screenshot 2026-09-13 111446" src="https://github.com/user-attachments/assets/ad316b91-23f4-45ac-836a-b59f44cc7604" /></p>
 
 ## Created a Directory
 Here I created the directory and using the command "sudo mkdir /home/shared? and verified it that the directory is successfully created.
