@@ -2,7 +2,7 @@
 
 I launched a new instance on AWS since I terminated the last one. I named it ubuntu-lab, created a new key pair, 
 and added https on the network setttings.
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/912a1be6-ea3a-4660-a518-b120331e743f" />
+<p><img width="700" alt="image" src="https://github.com/user-attachments/assets/912a1be6-ea3a-4660-a518-b120331e743f" /></p>
 <p>&nbsp;</p>
 
 I installed the Apache web server again.
