@@ -35,7 +35,7 @@ I customized the index.html a bit. I just change the "it work!" into my name and
 
 ## External File DL with wget
 I successfully downloaded in my EC2 instance the external pdf " http://...EECS-2009-28.pdf " given in our lab activity. I used the command called "wget".
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/e736dd12-1fe1-4849-a00b-6e8863799dcd" />
+<p><img width="700" alt="image" src="https://github.com/user-attachments/assets/e736dd12-1fe1-4849-a00b-6e8863799dcd" /></p>
 <p>&nbsp;</p>
 
 ## PDF Accessible
@@ -55,7 +55,7 @@ I successfully created the budget to help me be alerted about the spending over 
 
 ## Terminate Instance
 Last step I did for this activity after the challenges was to terminate my Instance in AWS for clean up. I will just be creating a new instance for other future lab activities.
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/c18dc668-f40e-4668-9a31-62439461d415" />
+<p><img width="700" alt="image" src="https://github.com/user-attachments/assets/c18dc668-f40e-4668-9a31-62439461d415" /></p>
 <p>&nbsp;</p>
 
 # Challenges
@@ -66,7 +66,7 @@ For this challenge, I tried to compare two servers in different countries. I tri
 
 ## Challenge 2: Create a Custom HTML Page
 I successfully created my custom html page in my EC2 web server and here is the output. It is a simple html structure without any CSS style on it.
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/28b8a77d-e8b7-4757-9510-85b4a32ea969" />
+<p><img width="700" alt="image" src="https://github.com/user-attachments/assets/28b8a77d-e8b7-4757-9510-85b4a32ea969" /></p>
 
 # Reflection
 ## What were the benefits of cloud deployment over local virtualisation?
