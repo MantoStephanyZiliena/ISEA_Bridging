@@ -82,7 +82,7 @@ Next I created a file called Hi_Partner using the "touch" command.
 ## Challenge 2: Remote GUI Apps
 For this challenge I tried opening gedit over SSH and it did not work because SSH does not provide a graphical display.
 But If I open it just through my terminal, it will work and it look like this:
-<img width="450" alt="Screenshot 2026-09-15 214249" src="https://github.com/user-attachments/assets/fcd63bda-b0a3-451f-b84c-b822d805aef2" />
+<p><img width="450" alt="Screenshot 2026-09-15 214249" src="https://github.com/user-attachments/assets/fcd63bda-b0a3-451f-b84c-b822d805aef2" /></p>
 
 
 ## Challenge 3: SCP File Transfer
@@ -90,7 +90,7 @@ For this Challenge I created I file in my main VM called Hi_Partner and send it 
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/e571253e-415a-405b-b3af-903fa276b6d3" />
 
 This is what it looks like when I open the file inside the partner VM.
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/aa838263-3cc0-4019-ac23-c74d8145e135" />
+<p><img width="450" alt="image" src="https://github.com/user-attachments/assets/aa838263-3cc0-4019-ac23-c74d8145e135" /></p>
 
 
 ## Challenge 4: Compress & Share Books
