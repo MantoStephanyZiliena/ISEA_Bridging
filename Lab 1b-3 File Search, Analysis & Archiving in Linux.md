@@ -6,7 +6,7 @@ First thing I did for this lab activity was extract the compressed Gutenberg arc
 
 ## File listing
 I used the command "ls" to list all the files I extracted from the archive and view the details of those files. It contains Moby, Frankenstein, and Two cities text file.
-<img width="550" alt="Screenshot 2026-09-13 142107" src="https://github.com/user-attachments/assets/9c94217d-e128-4215-9049-bea759a1c661" />
+<p><img width="550" alt="Screenshot 2026-09-13 142107" src="https://github.com/user-attachments/assets/9c94217d-e128-4215-9049-bea759a1c661" /></p>
 
 ## File name Search
 Now here, I used the command called "find" with "-name "*.txt" to search for all the files inside my Downloads folder in my file manager. This confirms the location and also the filenames of all .txt files.
@@ -26,7 +26,7 @@ Now here I searched for the files with their dates indicated and the files are a
 
 ## Search by file size 
 For the file size, since the folder only have four files inside and 255258 bytes is a big files size, it will show nothing again for the result because all four files only have a small file size.
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/0bed9f07-103a-4696-9a7c-249661b6721a" />
+<p><img width="600" alt="image" src="https://github.com/user-attachments/assets/0bed9f07-103a-4696-9a7c-249661b6721a" /></p>
 
 ## Find largest files
 Here I tried looking for the largest files and here are the top 4 in my downloads, and also the largest one is the one at the top.
