@@ -56,7 +56,7 @@ And then I created a new user in the partner vm and then tested logging in via S
 
 ## Project Gutenberg
 I downloaded the file called Gutenberg using the command called "wget"
-<img width="450" alt="Screenshot 2026-09-13 103352" src="https://github.com/user-attachments/assets/70c41a01-c89c-4908-aaf4-dafd600eede2" />
+<p><img width="450" alt="Screenshot 2026-09-13 103352" src="https://github.com/user-attachments/assets/70c41a01-c89c-4908-aaf4-dafd600eede2" /></p>
 <p>&nbsp;</p>
 
 Next is I compress it with "bzip2 books.tar, decompress it with "bunzip2", and extract with "tar -xvf".
