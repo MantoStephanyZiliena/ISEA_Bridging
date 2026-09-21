@@ -6,7 +6,7 @@ and added https on the network setttings.
 <p>&nbsp;</p>
 
 I installed the Apache web server again.
-<img width="700" alt="Screenshot 2026-09-18 223837" src="https://github.com/user-attachments/assets/caf847dd-3b40-42d8-a7f8-4fa4c8bc8eb7" />
+<p><img width="700" alt="Screenshot 2026-09-18 223837" src="https://github.com/user-attachments/assets/caf847dd-3b40-42d8-a7f8-4fa4c8bc8eb7" /></p>
 <p>&nbsp;</p>
 
 I created a Duck DNS domain named stephanyweb.duckdns.org and register it to use my server's public IP address 
