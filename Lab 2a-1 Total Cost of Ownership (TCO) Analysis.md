@@ -9,7 +9,7 @@ Here I have two different types of printer but same brand and same price to anal
 when it comes to operating cost and other cost.
 
 1. Inkjet Printer- Canon PIXMA TS8870 ($269.00)
-   <img width="600" alt="image" src="https://github.com/user-attachments/assets/dffdb08a-9d68-487a-8afd-bb74614a9d7d" />
+   <p><img width="600" alt="image" src="https://github.com/user-attachments/assets/dffdb08a-9d68-487a-8afd-bb74614a9d7d" /></p>
 2. Laser Printer- Canon imageCLASS LBP122dw II ($269.00)
    <img width="600" alt="image" src="https://github.com/user-attachments/assets/3db80124-4aee-4d70-a722-8888285beb00" />
 
