@@ -1,6 +1,6 @@
 # 2b-1 Cloud Web Server Deployment with Amazon EC2
 
-For this lab activity, we are task to sign in to Amazon Web Service and we will be configuring 
+For this lab activity, we are tasked to sign in to Amazon Web Service and we will be configuring 
 a virtual machine, install Apache web server, serve files online, and understand basic budgeting 
 and cost management in cloud environments.
 <p>&nbsp;</p>
