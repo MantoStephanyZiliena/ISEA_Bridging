@@ -29,3 +29,14 @@ So here I verified the backup script successfully created a timestamp zip archiv
 <p><img width="600" alt="image" src="https://github.com/user-attachments/assets/0e7726b0-7117-49ac-b4b3-9e7ac374f25f" /></p>
 
 ## SCP to Cloud
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e4912d6c-e0d9-4c24-80c7-ba3e2a5e9636" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e3c9abec-3951-467e-b7a8-d58542f18748" />
+
+## SSH Certificate Accepted by Root
+I used SSH with the AWS private key to securely connect to the cloud server. The SSH host fingerprint was accepted and the connection was successfully established.
+<p><img width="600" alt="Screenshot 2026-09-22 101930" src="https://github.com/user-attachments/assets/c0b5eb55-3323-415e-8c30-9f9dbcedd25d" /></p>
+
+## Final Script
+<img width="600" alt="Screenshot 2026-09-22 102744" src="https://github.com/user-attachments/assets/9c0cf389-3a7f-43b7-bbe0-55efe53f11ed" />
+
+
