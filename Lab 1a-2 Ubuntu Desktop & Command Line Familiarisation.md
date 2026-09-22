@@ -15,8 +15,9 @@ since it is not pre-installed on my Ubuntu, but in may differ, some Ubuntu have 
 <p>&nbsp;</p>
 
 I opened the LibreOffice and tried typing on it just to check if it actually works. 
-(Just notice that its the math one, I'll change this one later)
-<p><img width="600" alt="Screenshot 2026-09-12 213108" src="https://github.com/user-attachments/assets/1ad53e86-c7c4-47c1-ac0e-3316f852b246" /></p>
+
+<p><img width="600" alt="image" src="https://github.com/user-attachments/assets/da36abf5-a61a-42f6-b9ef-5bd6d2eeacc4" />
+</p>
 <p>&nbsp;</p>
 
 I also explored the file manager and navigate through the directory structure.
